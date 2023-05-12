@@ -1,0 +1,26 @@
+---
+title: "Publications"
+---
+### 2023
+**Elmers, M.** and Székely, É. 2023. The impact of pause-internal phonetic particles on recall in synthesized lectures. *Proc. 12th ISCA Speech Synthesis Workshop (SSW '23)*, Grenoble, Aug 26-28 (Under Review). [Code](https://github.com/MikeyElmers/paper_ssw23)  
+<br>
+**Elmers, M.**, O'Mahony, J., and Székely, É. 2023. Synthesis after a couple PINTs: Investigating the role of pause-internal phonetic particles in speech synthesis and perception. *Proc. Interspeech 2023*, Dublin, Aug 20-24 (Under Review). [Code](https://github.com/MikeyElmers/paper_interspeech23)  
+<br>
+**Elmers, M.** 2023. Pause particles influencing recollection in lectures. *Proc. 20th International Congress of Phonetic Sciences (ICPhS '23)*, Prague, August 7-11 (Accepted). [Code](https://github.com/MikeyElmers/paper_icphs23)
+
+### 2022
+**Elmers, M.** and Trouvain, J. 2022. Pause-internal particles in university lectures. Poster presentation, *18th Phonetik & Phonologie (P&P '22)*, Bielefeld, October 06-07. [Abstract](publications/elmers_pp22_abstract.pdf) [Poster](publications/elmers_pp22_poster.pdf) [Code](https://github.com/MikeyElmers/paper_pp22)  
+<br>
+**Elmers, M.** 2022. Comparing detection methods for pause-internal particles. *Proc. 33rd Conference Elektronische Sprachsignalverarbeitung (ESSV '22)*, Sonderborg, March 2-4, pp. 204-211. [PDF](publications/elmers_essv2022.pdf) [.bib](publications/elmers_essv2022.bib) [Slides](publications/elmers_essv2022presentation.pdf)
+
+### 2021
+**Elmers, M.** 2021. Corpus generation for research in pause-internal phonetic particles. Oral presentation, *17th Phonetik & Phonologie (P&P '21)*, Frankfurt, September 29-30. [Abstract](publications/elmers_P&P21_Abstract.pdf) [Slides](publications/elmers_P&P21_Slides.pdf)  
+<br>
+Muhlack, B., **Elmers, M.**, Drenhaus, H., Trouvain, J., Van Os, M., Werner, R., Ryzhova, M., and Möbius, B. 2021. Revisiting recall effects of filler particles in German and English. *Proc. Interspeech 2021*, Aug 30 - Sept 03, pp. 3979-3983. [PDF](publications/Muhlack_Interspeech21.pdf) [.bib](publications/Muhlack_Interspeech21.bib) [Stimuli](https://cloud.hiz-saarland.de/s/N4RZamosiXXiL4s)  
+<br>
+**Elmers, M.**, Werner, R., Muhlack, B., Möbius, B., and Trouvain, J. 2021. Take a breath: Respiratory sounds improve recollection in synthetic speech. *Proc. Interspeech 2021*, Brno, Aug 30 - Sept 03, 3196-3200. [PDF](publications/elmers_Interspeech21.pdf) [.bib](publications/elmers_Interspeech21.bib) [Stimuli](https://cloud.hiz-saarland.de/s/TLGsZ2EfyBHqHpi)  
+<br>
+**Elmers, M.**, Werner, R., Muhlack, B., Möbius, B., and Trouvain, J. 2021. Evaluating the effect of pauses on number recollection in synthesized speech. *Proc. 32nd Conference Elektronische Sprachsignalverarbeitung (ESSV '21)*, Berlin, March 3-5, pp. 289-295. [PDF](publications/elmers_ESSV2021_Paper.pdf) [.bib](publications/elmers_ESSV2021.bib) [Slides](publications/elmers_ESSV2021_Presentation.pdf)  
+
+### 2020
+**Elmers, M.**, Muhlack, B., Werner, R., Trouvain, J., and Möbius, B. 2020. Pause-internal phonetic particles in speech communication. Poster presentation, *16th Phonetik & Phonologie (P&P '20)*, Trier, September 10-11. [Abstract](publications/PINTS_Abstract.pdf) [Poster](publications/PINTS_Poster.pdf)

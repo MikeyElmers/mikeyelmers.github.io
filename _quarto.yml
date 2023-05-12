@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    theme: default
+
+website:
+  title: "Mikey Elmers"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: resume.qmd
+        text: Resume
+      - href: contact.qmd
+        text: Contact
+      - href: publications.qmd
+        text: Publications
+    right:
+      - icon: github
+        href: https://github.com/mikeyelmers/
+        aria-label: Quarto Github
+      - icon: linkedin
+        href: https://linkedin.com/in/mikey-elmers-1006b451/
+        aria-label: Quarto LinkedIn
+  page-footer:
+    left:
+      <span class="container"><strong>Made with [Posit Quarto](https://quarto.org){target="_blank"}</strong></span>
+    right:
+      <span class="container"><strong>[Github Repo](https://github.com/mikeyelmers){target="_blank"}</strong></span>
