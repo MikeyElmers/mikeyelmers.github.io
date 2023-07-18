@@ -2,9 +2,9 @@
 title: "Publications"
 ---
 ### 2023
-**Elmers, M.** and Székely, É. 2023. The impact of pause-internal phonetic particles on recall in synthesized lectures. *Proc. 12th ISCA Speech Synthesis Workshop (SSW '23)*, Grenoble, Aug 26-28 (Under Review). [Code](https://github.com/MikeyElmers/paper_ssw23)  
+**Elmers, M.** and Székely, É. 2023. The impact of pause-internal phonetic particles on recall in synthesized lectures. *Proc. 12th ISCA Speech Synthesis Workshop (SSW '23)*, Grenoble, Aug 26-28 (Accepted). [Code](https://github.com/MikeyElmers/paper_ssw23)  
 <br>
-**Elmers, M.**, O'Mahony, J., and Székely, É. 2023. Synthesis after a couple PINTs: Investigating the role of pause-internal phonetic particles in speech synthesis and perception. *Proc. Interspeech 2023*, Dublin, Aug 20-24 (Under Review). [Code](https://github.com/MikeyElmers/paper_interspeech23)  
+**Elmers, M.**, O'Mahony, J., and Székely, É. 2023. Synthesis after a couple PINTs: Investigating the role of pause-internal phonetic particles in speech synthesis and perception. *Proc. Interspeech 2023*, Dublin, Aug 20-24 (Accepted). [Code](https://github.com/MikeyElmers/paper_interspeech23)  
 <br>
 **Elmers, M.** 2023. Pause particles influencing recollection in lectures. *Proc. 20th International Congress of Phonetic Sciences (ICPhS '23)*, Prague, August 7-11 (Accepted). [Code](https://github.com/MikeyElmers/paper_icphs23)
 
