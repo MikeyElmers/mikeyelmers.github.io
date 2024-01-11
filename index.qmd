@@ -17,11 +17,11 @@ about:
       href: mailto:elmers@sap.ist.i.kyoto-u.ac.jp
 ---
 
-I am a postdoctoral researcher at the [Speech and Audio Processing Laboratory](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en). My work investigates spoken dialogue systems for human-robot interaction. I focus on experimental design, data collection, statistical analyses, coding, data visualization, and the promotion of reproducible research practices.
+I am a postdoctoral researcher at the [Speech and Audio Processing Laboratory](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en) working with [Prof. Dr. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/). My work investigates spoken dialogue systems for human-robot interaction and virtual agents. I focus on experimental design, data collection, statistical analyses, coding, data visualization, and the promotion of reproducible research practices.
 
 <!-- My interests are in phonetics, speech synthesis, and memory. -->
 
-Previously I was a PhD researcher for the [PINTS project](http://pauseparticles.org/) which focused on pause-internal phonetic particles in speech communication. Within that project, I examined the influence of **pause particles in speech synthesis**. My supervisors were [Prof. Dr. Bernd Möbius](https://www.coli.uni-saarland.de/~moebius/mywww/index.html) and [Dr. Jürgen Trouvain](https://www.coli.uni-saarland.de/~trouvain/) from the [Language Science and Technology](https://www.lst.uni-saarland.de/) department at [Saarland University](https://www.uni-saarland.de/start.html), Saarbrücken, Germany.
+Previously I was a PhD researcher for the [PINTS project](http://pauseparticles.org/) which focused on pause-internal phonetic particles in speech communication. I examined the influence of **pause particles in speech synthesis**. My supervisors were [Prof. Dr. Bernd Möbius](https://www.coli.uni-saarland.de/~moebius/mywww/index.html) and [Dr. Jürgen Trouvain](https://www.coli.uni-saarland.de/~trouvain/) from the [Language Science and Technology](https://www.lst.uni-saarland.de/) department at [Saarland University](https://www.uni-saarland.de/start.html), Saarbrücken, Germany.
 
 :::{#hero-heading}
 
