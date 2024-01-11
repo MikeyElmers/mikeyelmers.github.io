@@ -17,7 +17,7 @@ about:
       href: mailto:elmers@sap.ist.i.kyoto-u.ac.jp
 ---
 
-I am a postdoctoral researcher at the [Speech and Audio Processing Laboratory](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en) working with [Prof. Dr. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/). My work investigates spoken dialogue systems for human-robot interaction and virtual agents. I focus on experimental design, data collection, statistical analyses, coding, data visualization, and the promotion of reproducible research practices.
+I am a postdoctoral researcher at the [Speech and Audio Processing Laboratory](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en) working with [Prof. Dr. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/). My work investigates **spoken dialogue systems** for **human-robot interaction** and **virtual agents**. I focus on experimental design, data collection, statistical analyses, coding, data visualization, and the promotion of reproducible research practices.
 
 <!-- My interests are in phonetics, speech synthesis, and memory. -->
 
