@@ -1,7 +1,3 @@
-## Teaching
-### Winter Semester 2023 (Saarland University)
-- Speech Science (Exercise Section)
-
 ## Resume
 <iframe 
   width="1050" 
