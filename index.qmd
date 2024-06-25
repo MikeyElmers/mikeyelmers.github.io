@@ -11,7 +11,7 @@ about:
       href: https://github.com/mikeyelmers/
     - text: LinkedIn
       icon: linkedin
-      href: https://linkedin.com/in/mikey-elmers-1006b451/
+      href: https://www.linkedin.com/in/mikey-elmers-ph-d-1006b451/
     - text: Email
       icon: envelope
       href: mailto:elmers@sap.ist.i.kyoto-u.ac.jp
