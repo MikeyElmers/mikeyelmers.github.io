@@ -1,6 +1,7 @@
 ---
 title: "Publications"
 ---
+
 ### 2024
 **Elmers, M.**, Inoue, K., Lala, D., Ochi, K., and Kawahara, T. 2024. Analysis and Detection of Differences in Spoken User Behaviors between Autonomous and Wizard-of-Oz Systems. *Proc. 27th Conference of the Oriental COCOSDA (O-COCOSDA '24)*, Hsinchu, Oct 17-19. [Poster](publications/elmers_ococosda24_poster.pdf) [Code](https://github.com/MikeyElmers/paper_ococosda24)
 
