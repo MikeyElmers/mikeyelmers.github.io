@@ -1,6 +1,9 @@
 ---
 title: "Publications"
 ---
+### 2024
+**Elmers, M.**, Inoue, K., Lala, D., Ochi, K., and Kawahara, T. 2024. Analysis and Detection of Differences in Spoken User Behaviors between Autonomous and Wizard-of-Oz Systems. *Proc. 27th Conference of the Oriental COCOSDA (O-COCOSDA '24)*, Hsinchu, Oct 17-19. [Poster](publications/elmers_ococosda24_poster.pdf) [Code](https://github.com/MikeyElmers/paper_ococosda24)
+
 ### 2023
 **Elmers, M.**. 2023. Evaluating pause particles and their functions in natural and synthesized speech in laboratory and lecture settings. PhD thesis, Saarland University. [PDF](publications/elmers_dissertation.pdf) [.bib](publications/elmers_dissertation.bib) [DOI](http://dx.doi.org/10.22028/D291-41118)    
 <br>
@@ -11,7 +14,7 @@ title: "Publications"
 **Elmers, M.** 2023. Pause particles influencing recollection in lectures. *Proc. 20th International Congress of Phonetic Sciences (ICPhS '23)*, Prague, August 7-11, pp. 37-41. [PDF](publications/elmers_icphs23_paper.pdf) [.bib](publications/elmers_icphs23.bib) [Poster](publications/elmers_icphs23_poster.pdf) [Code](https://github.com/MikeyElmers/paper_icphs23)
 
 ### 2022
-**Elmers, M.** and Trouvain, J. 2022. Pause-internal particles in university lectures. Poster presentation, *18th Phonetik & Phonologie (P&P '22)*, Bielefeld, October 06-07. [Abstract](publications/elmers_pp22_abstract.pdf) [Poster](publications/elmers_pp22_poster.pdf) [Code](https://github.com/MikeyElmers/paper_pp22)  
+**Elmers, M.** and Trouvain, J. 2022. Pause-internal particles in university lectures. Poster presentation, *18th Phonetik & Phonologie (P&P '22)*, Bielefeld, October 06-07. [Abstract](publications/elmers_pp22_abstract.pdf) [Poster](publications/elmers_pp22_poster.pdf) [Code](https://github.com/MikeyElmers/paper_pp22)
 <br>
 **Elmers, M.** 2022. Comparing detection methods for pause-internal particles. *Proc. 33rd Conference Elektronische Sprachsignalverarbeitung (ESSV '22)*, Sonderborg, March 2-4, pp. 204-211. [PDF](publications/elmers_essv2022.pdf) [.bib](publications/elmers_essv2022.bib) [Slides](publications/elmers_essv2022presentation.pdf)
 
