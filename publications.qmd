@@ -17,6 +17,7 @@ title: "Publications"
 ### 2022
 **Elmers, M.** and Trouvain, J. 2022. Pause-internal particles in university lectures. Poster presentation, *18th Phonetik & Phonologie (P&P '22)*, Bielefeld, October 06-07. [Abstract](publications/elmers_pp22_abstract.pdf) [Poster](publications/elmers_pp22_poster.pdf) [Code](https://github.com/MikeyElmers/paper_pp22)
 <br>
+
 **Elmers, M.** 2022. Comparing detection methods for pause-internal particles. *Proc. 33rd Conference Elektronische Sprachsignalverarbeitung (ESSV '22)*, Sonderborg, March 2-4, pp. 204-211. [PDF](publications/elmers_essv2022.pdf) [.bib](publications/elmers_essv2022.bib) [Slides](publications/elmers_essv2022presentation.pdf)
 
 ### 2021
