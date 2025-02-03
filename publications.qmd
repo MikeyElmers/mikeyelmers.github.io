@@ -3,6 +3,8 @@ title: "Publications"
 ---
 
 ### 2024
+Lala, D., Inoue, K., Kawai, H., Pang, Z., **Elmers, M.**, Kawahara, T. 2024. Development and evaluation of a semi-autonomous parallel attentive listening system. *Proc. 2024 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, Macau, Dec 3-6. [PDF](https://ieeexplore.ieee.org/document/10848649) [.bib](publications/lala2024apsipa.bib)
+
 **Elmers, M.**, Inoue, K., Lala, D., Ochi, K., and Kawahara, T. 2024. Analysis and Detection of Differences in Spoken User Behaviors between Autonomous and Wizard-of-Oz Systems. *Proc. 27th Conference of the Oriental COCOSDA (O-COCOSDA '24)*, Hsinchu, Oct 17-19. [PDF](https://ieeexplore.ieee.org/document/10799979) [.bib](publications/elmers_ococosda24.bib) [Poster](publications/elmers_ococosda24_poster.pdf) [Code](https://github.com/MikeyElmers/paper_ococosda24)
 
 ### 2023
