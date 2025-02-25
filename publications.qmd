@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+### 2025
+Pang, Z., Fu, Y., Lala, D., **Elmers, M.**, Inoue, K., Kawahara, T. 2025. Human-Like Embodied {AI} Interviewer: Employing Android {ERICA} in Real International Conference. *Proc. 31st International Conference on Computational Linguistics: System Demonstrations (COLING '25)*, Abu Dhabi, Jan 19-24.
+[Link](https://aclanthology.org/2025.coling-demos.14/)
+
 ### 2024
 Lala, D., Inoue, K., Kawai, H., Pang, Z., **Elmers, M.**, Kawahara, T. 2024. Development and evaluation of a semi-autonomous parallel attentive listening system. *Proc. 2024 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)*, Macau, Dec 3-6. [PDF](https://ieeexplore.ieee.org/document/10848649) [.bib](publications/lala2024apsipa.bib)
 
