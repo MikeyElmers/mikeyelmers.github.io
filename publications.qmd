@@ -3,6 +3,9 @@ title: "Publications"
 ---
 
 ### 2025
+Pang, Z., Fu, Y., Lala, D., **Elmers, M.**, Inoue, K., Kawahara, T. 2025. Does the Appearance of Autonomous Conversational Robots Affect User Spoken Behaviors in Real-World Conference Interactions? *Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25)*, Yokohama, Apr 26 - May 1.
+[Link](https://dl.acm.org/doi/10.1145/3706599.3720179)
+
 Pang, Z., Fu, Y., Lala, D., **Elmers, M.**, Inoue, K., Kawahara, T. 2025. Human-Like Embodied AI Interviewer: Employing Android ERICA in Real International Conference. *Proc. 31st International Conference on Computational Linguistics: System Demonstrations (COLING '25)*, Abu Dhabi, Jan 19-24.
 [Link](https://aclanthology.org/2025.coling-demos.14/)
 
