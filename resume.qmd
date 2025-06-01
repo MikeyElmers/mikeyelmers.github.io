@@ -2,5 +2,5 @@
 <iframe 
   width="1050" 
   height="1200" 
-  src="img/resume.pdf">
+  src="img/cv.pdf">
 </iframe>
