@@ -3,6 +3,8 @@ title: "Publications"
 ---
 
 ### 2025
+Inoue, K., **Elmers, M.**, Fu, Y., Pang, Z., Lala, D., Ochi, K., and Kawahara, T. 2025. Prompt-Guided Turn-Taking Prediction. *Proc. 26th Annual Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL '25)*, Avignon, Aug 25-27. (Accepted)
+
 **Elmers, M.**, Inoue, K., Lala, D., and Kawahara, T. 2025. Triadic Multi-party Voice Activity Projection for Turn-taking in Spoken Dialogue Systems. *Proc. Interspeech 2025*, Rotterdam, Aug 17-21. (Accepted)
 
 Inoue, K., **Elmers, M.**, Lala, D., and Kawahara, T. 2025. Why Do We Laugh? Annotation and Taxonomy Generation for Laughable Contexts in Spontaneous Text Conversation. *Proc. 15th International Workshop on Spoken Dialogue Systems Technology (IWSDS '25)*, Bilbao, May 27-30.
