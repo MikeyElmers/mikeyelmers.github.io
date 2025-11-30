@@ -11,17 +11,20 @@ about:
       href: https://github.com/mikeyelmers/
     - text: LinkedIn
       icon: linkedin
-      href: https://www.linkedin.com/in/mikey-elmers-ph-d-1006b451/
+      href: https://www.linkedin.com/in/mikey-elmers-phd-1006b451/
     - text: Email
       icon: envelope
-      href: mailto:elmers@sap.ist.i.kyoto-u.ac.jp
+      href: mailto:mikey.elmers@woven.toyota
 ---
 
-I am a postdoctoral researcher at the [Speech and Audio Processing Laboratory](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en) working with [Prof. Dr. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/). My work investigates **spoken dialogue systems** for **human-robot interaction** and **virtual agents**. I focus on experimental design, data collection, statistical analyses, coding, data visualization, and the promotion of reproducible research practices.
+I am a research engineer at [Woven by Toyota](https://woven.toyota/en/). My work investigates **remote communication**. I focus on experimental design, data collection, statistical analyses, coding, data visualization, and the promotion of reproducible research practices.
 
 <!-- My interests are in phonetics, speech synthesis, and memory. -->
 
-Previously I was a PhD researcher for the [PINTS project](http://pauseparticles.org/) which focused on pause-internal phonetic particles in speech communication. I examined the influence of **pause particles in speech synthesis**. My supervisors were [Prof. Dr. Bernd Möbius](https://www.coli.uni-saarland.de/~moebius/mywww/index.html) and [Dr. Jürgen Trouvain](https://www.coli.uni-saarland.de/~trouvain/) from the [Language Science and Technology](https://www.lst.uni-saarland.de/) department at [Saarland University](https://www.uni-saarland.de/start.html), Saarbrücken, Germany.
+Previously I was a postdoctoral researcher at the [Speech and Audio Processing Laboratory](http://sap.ist.i.kyoto-u.ac.jp/EN/) at [Kyoto University](https://www.kyoto-u.ac.jp/en) working with [Prof. Dr. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/) researching **spoken dialogue systems** for **human-robot interaction** and **virtual agents**.
+
+I completed my PhD at [Saarland University](https://www.uni-saarland.de/start.html) with [Prof. Dr. Bernd Möbius](https://www.coli.uni-saarland.de/~moebius/mywww/index.html) and [Dr. Jürgen Trouvain](https://www.coli.uni-saarland.de/~trouvain/). I was part of the  [PINTS project](http://pauseparticles.org/) which focused on pause-internal phonetic particles in speech communication. I examined the influence of **pause particles in speech synthesis**. 
+
 
 :::{#hero-heading}
 
