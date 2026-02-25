@@ -1,6 +1,6 @@
 ---
 title: "Mikey Elmers"
-image: img/profile.jpg
+image: img/profile.jpeg
 about:
   template: jolla
   image-width: 15em
